@@ -1,7 +1,7 @@
 # portfolio
 Titanic Survival Prediction Portfolio
 # Titanic Survival Prediction Portfolio
-
+https://github.com/sangduck-han/portfolio/blob/253d2016204df4c2e5a8913c2870a31b19d49f3d/image/Screenshot_20251211_234130_Chrome.jpg
 이 프로젝트는 타이타닉 탑승객 데이터를 활용하여
 생존 여부를 예측하는 머신러닝 모델을 개발한 포트폴리오입니다.
 
